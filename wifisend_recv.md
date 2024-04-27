@@ -56,6 +56,7 @@ pcから3DSにファイルをPetitModemで転送しようとしたところ、�
 
 * WFSEND1 <a name="wfsend1"></a>
 ![WFSEND1](images/WFSEND1.jpg)
+
 * WFRECV1 <a name="wfrecv1"></a>
 ![WFRECV1](images/WFRECV1.jpg)
 
